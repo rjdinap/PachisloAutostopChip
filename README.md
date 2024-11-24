@@ -7,7 +7,7 @@ Back in 2003-2004, I imported a lot of pachislo machines. Truckloads of them. An
 The original code was written in picbasic and is included in the code directory. It's attached here for nostalgia, understanding, and in case someone wants to modify it.
 The .hex file gets burned to your 12c509a chip. It's included in the code directory also.
 
-Build and use instructions are included in the instructions directory. Simply click on one of the .htm files: autostop-instructions.htm, autostop-construction.htm, autostop-construction-page2.htm or autostop-supplement.htm to read build and use instructions. (You won't see the .htm pages pull up properly if browsing from github - you need to download the instructions page to your local computer and then click the files.)
+Build and use instructions are included in the instructions directory. Simply click on one of the .htm files: autostop-instructions.htm, autostop-construction.htm, autostop-construction-page2.htm or autostop-supplement.htm to read build and use instructions. (You won't see the .htm pages pull up properly if browsing from github - you need to download the instructions directory to your local computer and then click the files.)
 
 
 Commands
