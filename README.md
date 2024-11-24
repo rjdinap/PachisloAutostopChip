@@ -1,7 +1,7 @@
 # PachisloAutostopChip
 Autostop and credit add chip for older pachislo machines
 
-Back in 2003-2004, I imported a lot of pachislo machines. Truckloads of them. And then I wrote code for an auto stop and credit add chip. It requires a pic 12c509a chip (still < $2 in 2024), a bit of soldering on your reel stop board, and an eeprom burner - or a friend who has one.
+Back in 2003-2004, I imported a few truckloads of pachislo machines. And then I wrote code for an auto stop and credit add chip. It requires a pic 12c509a chip (still < $2 in 2024), a bit of soldering on your reel stop board, and an eeprom burner - or a friend who has one.
 
 
 The original code was written in picbasic and is included in the code directory. It's attached here for nostalgia, understanding, and in case someone wants to modify it.
