@@ -29,7 +29,7 @@ Hold right reel stop button for ~ 3 seconds to add 50 credits
 Hold right button for 3 secs, then tap middle button to shut down credit add mode
 
 
-If your reelstop board looks like one of these pictures, you can most likely use this code. Read the instrucions files for more details. Before trying to wire up the credit add functionality or pin 4, be sure to measure voltage with a multimeter! If you get more than 5v, don't do it!
+If your reelstop board looks like one of these pictures, you can most likely use this code. Read the instructions files for more details. Before trying to wire up the credit add functionality or pin 4, be sure to measure voltage with a multimeter! If you get more than 5v, don't do it!
 ![image](https://github.com/user-attachments/assets/7f819e09-fb61-4313-86b5-596806b77518)
 ![image](https://github.com/user-attachments/assets/37e9d32c-4cfe-4c70-99cf-8f47eda2602d)
 
